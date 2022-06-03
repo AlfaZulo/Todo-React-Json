@@ -1,0 +1,27 @@
+.container{
+    
+        border: 10px outset black;
+        background-color: lightblue;    
+        text-align: center; 
+         padding: 2%;
+         margin-top: 2%;
+         position: relative;
+         size-adjust: 10%;
+      }
+.task{
+    padding: 2%;
+}
+.submit{
+padding:1%;
+}
+
+table
+{
+  width:40%;
+}
+td
+{
+  height:40px;
+}
+
+  
